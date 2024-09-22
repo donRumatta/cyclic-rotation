@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "CyclicRotation\CyclicRotation.csproj", "{70AE4C21-32DF-49C1-AF28-47D744BBB498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2FD5F5CD-C279-4146-BFBF-0805D78162C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70AE4C21-32DF-49C1-AF28-47D744BBB498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AE4C21-32DF-49C1-AF28-47D744BBB498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AE4C21-32DF-49C1-AF28-47D744BBB498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AE4C21-32DF-49C1-AF28-47D744BBB498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD5F5CD-C279-4146-BFBF-0805D78162C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD5F5CD-C279-4146-BFBF-0805D78162C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD5F5CD-C279-4146-BFBF-0805D78162C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD5F5CD-C279-4146-BFBF-0805D78162C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
